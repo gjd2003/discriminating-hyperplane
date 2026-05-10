@@ -1,4 +1,4 @@
-## Source code of "Safety Filters for Black-Box Dynamical Systems by Learning Discriminating Hyperplanes"
+## Application of "Safety Filters for Black-Box Dynamical Systems by Learning Discriminating Hyperplanes"
 
 Will Lavanakul*, Jason J. Choi*, Koushil Sreenath, Claire J. Tomlin
 
